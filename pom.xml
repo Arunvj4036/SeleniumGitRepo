@@ -3,13 +3,12 @@
   <groupId>SeleniumGit</groupId>
   <artifactId>SeleniumGit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
-   <dependencies>
-   <dependency>
+  <dependencies>
+ <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.23.0</version>
-</dependency>
+   </dependency>
    
    <dependency>
   <groupId>org.apache.maven.plugins</groupId>
